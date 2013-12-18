@@ -1,0 +1,11 @@
+5
+a
+b
+ab
+ba
+abb
+bba
+sort
+this
+abcdefghijklmnopqrstuvwxyz
+bcdefghijklmnopqrstuvwxyza
